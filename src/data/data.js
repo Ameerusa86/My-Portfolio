@@ -1,6 +1,7 @@
 import WorkIm from "../assets/workImg.jpeg";
 import RealEst from "../assets/realestate.jpg";
 import movies from "../assets/movies.png";
+import work2 from "../assets/work2.png";
 
 export const data = [
   {
@@ -12,9 +13,9 @@ export const data = [
   },
   {
     id: 2,
-    name: "React JS Application",
-    image: RealEst,
-    github: "",
+    name: "E-Commerce",
+    image: work2,
+    github: "https://github.com/Ameerusa86/E-Commerce-2.git",
     live: "",
   },
   {

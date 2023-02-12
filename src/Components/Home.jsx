@@ -15,7 +15,7 @@ const Home = () => {
           I'm a Full Stack Developer
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          Need to add more info
+          Front End and Backend Technologies
         </p>
         <div>
           <button className="text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-orange-600 hover:border-orange-600 group text-xl font-bold drop-shadow-md">

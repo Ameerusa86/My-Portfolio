@@ -15,12 +15,22 @@ const About = () => {
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4 ">
           <div className="sm:text-right text-4xl font-bold">
             <p>
-              My name is Ameer hasan, I have a Master's degree in Web
+              My name is Ameer hasan, I have a Master's degree in App & Web
               Development from SNHU
             </p>
           </div>
           <div>
-            <p>Need to Add info</p>
+            <ul>
+              <li>1) HTML</li>
+              <li>
+                2) CSS and CSS frameworks and Libraries: TailwindCSS, Bootstrap,
+                Material UI
+              </li>
+              <li>3) JavaScript & JS Frameworks (Angular JS, React)</li>
+              <li>4) Node.js</li>
+              <li>5) MERN stack</li>
+              <li>6) HTTP & REST API </li>
+            </ul>
           </div>
         </div>
       </div>
